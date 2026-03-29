@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Suraj 
 
-<!--
-**surajpisal845-maker/surajpisal845-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech CSE Student at VIT Bhopal  
+ Batch: 2025–2029  
 
-Here are some ideas to get you started:
+ Currently learning:
+- C++
+- Data Structures & Algorithms
+- Web Development (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goal:
+To become a skilled software engineer and build impactful projects.
+
+ Connect with me:
+- LinkedIn: https://www.linkedin.com/in/suraj-pisal-9846b5370?utm_source=share_via&utm_content=profile&utm_medium=member_android
